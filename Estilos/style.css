@@ -1,0 +1,318 @@
+#Cuadro /* Cuadro grande */
+{
+    width: 100px, 10px;
+    height: 875px;
+    background-size: 100px, 250PX;
+    border: 1px solid #000;
+    margin-right: -10px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+
+#Cuadro .sub_footer {
+    margin-left: -15px;
+    width: 1290px;
+}
+
+#Cuadro .menu-seccion {
+    background-color: #5F1111;
+    height: 27px;
+    width: 1350px;
+    margin-left: -58px;
+    margin-top: -1px;
+}
+.menu-seccion center table {
+    margin-top: -16px;
+    text-indent: 25px;
+    height: 0px;
+}
+
+
+
+
+header  /* Cuadro de la header */
+{
+    width: 1000px, 10px;
+    height: 101px;
+    background-color: #5F1111;
+    border: 0px solid #000;
+    margin-top: -29px;
+}
+
+.padre
+{
+    height: 185px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 2px;
+    text-align: center;
+    width: 300px;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.padre p
+{
+    padding-top: 75px;
+    font-size: 14px;
+}
+
+#logo  /* Cuadro de la izquierda */
+{
+    width: 99px;
+    height: 99px;
+    border: 0px solid #000;
+    background-color: #5F1111;
+    color: white;
+    padding: 1px 10px;
+    float: left;
+    margin-left: -19px;
+}
+
+.menu /* Cuadro de la derecha */
+{
+    width: 99px;
+    height: 99px;
+    background-color: #5F1111;
+    border: px solid black;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 1px;
+    float: right;
+    margin-right: 40px;
+}
+
+
+#p-2
+{
+	padding: 5px 5px 150px 25px;
+	border: 1px solid black;
+	width: 100px;
+	height: 500px;
+	background-image: url(../Imagenes/brunch-santiago-chile.jpg);
+}
+#Cuadro #p-2 {
+    background-color: #FFFFFF;
+    width: 1279px;
+    margin-left: -15px;
+}
+#Cuadro #p-2 #somos {
+	color: #000000;
+	width: 405px;
+	height: 45px;
+	margin-top: -300px;
+	margin-bottom: 5px;
+	margin-left: 30px;
+	float: left;
+	text-align: justify;
+	line-height: 16px;
+	font-family: architects-daughter;
+	font-style: normal;
+	font-weight: 400;
+}
+
+
+#Cuadro #p-2 .info {
+    background-color: #FFFFFF;
+    width: 960px;
+    border: 1px solid red;
+    height: 448px;
+    margin-top: 90px;
+    border-radius: 16px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 113px;
+    font-size: 29px;
+    text-shadow: 5px 5px 5px #000000;
+    background-image: url(../Imagenes/fondo.jpg);
+    -webkit-box-shadow: 0px 0px 318px 84px #000000;
+    box-shadow: 0px 0px 318px 84px #000000;
+    background-repeat: no-repeat;
+    line-height: 231px;
+    font-weight: 400;
+    float: none;
+    font-style: normal;
+    font-family: architects-daughter;
+}
+
+
+
+
+
+#Cuadro #p-2 .info2 {
+	width: 350px;
+	color: #000000;
+	height: 155px;
+	text-align: justify;
+	margin-top: -338px;
+	margin-left: 30px;
+	border-radius: 5px;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	opacity: 1;
+}
+
+
+#Cuadro #p-2 .info3 {
+    width: 350px;
+    color: #000000;
+    height: 60px;
+    text-align: justify;
+    margin-left: 30px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    margin-top: -100px;
+}
+
+
+
+
+
+
+
+.menu li
+{
+  list-style: none;
+  float: left;
+  padding: 0px 13px 10px;
+}
+#Seccion_principal center img {
+    border-radius: 8px;
+    margin-top: 5px;
+    background-color: #FF0004;
+}
+
+
+
+footer /* Donde esta mi nombre */
+{
+  text-align: center;
+  margin-right: 0px;
+  color: white;
+  border: 3px solid #565758;
+  padding: 5px 10px 5px 5px;
+  float: center;
+  background-color: BLACK;
+} 
+
+footer {
+  background-color: #1C1C1C;
+  padding: 20px 10px 5px 5px;
+}
+#Cuadro #p-2 #imagen {
+    margin-top: -362px;
+    margin-left: 286px;
+}
+
+table tr td {
+    padding-left: 6px;
+    padding-right: 0px;
+    clear: both;
+
+
+}
+center .tab-1 img {
+    background-color: #FFA7A8;
+    width: 344px;
+    height: 386px;
+}
+#Cuadro .contenedor_principal {
+    background-color: #FFFFFF;
+    width: 1324px;
+    height: 707px;
+    border-radius: 5px;
+    color: #000000;
+    text-align: center;
+    opacity: 1;
+    margin-left: -31px;
+    background-image: url(../Imagenes/Restaurantes3.jpg);
+    background-size: 1323px 702px;
+    margin-bottom: -60px;
+}
+#Cuadro .contenedor_principal .sosten {
+    background-color: #FF0004;
+    padding-top: 100px;
+    background-image: url(../Imagenes/Restaurantes3.jpg);
+    background-size: 1325px auto;
+}
+
+#Cuadro .contenedor_principal .publicacion {
+    background-color: #5E5E5E;
+    width: 699px;
+    height: 290px;
+    clear: none;
+    opacity: 1;
+    margin-left: 313px;
+    padding-bottom: 83px;
+    background-image: url(../Imagenes/fondo.jpg);
+    background-position: -165px 82%;
+    background-size: 1085px auto;
+    text-shadow: 6px 22px 9px #000000;
+}
+.sosten .publicacion .articulo3 {
+    background-color: #8F8989;
+    height: 268px;
+    width: 317px;
+    clear: none;
+    margin-top: 48px;
+    float: none;
+    margin-left: 365px;
+    border-radius: 30px;
+    background-image: url(../Imagenes/vintaje2.jpg);
+    background-position: 3px -100px;
+    background-size: 100% 375px;
+    text-decoration: underline;
+}
+
+.sosten .publicacion .articulo2 {
+    background-color: #8F8989;
+    width: 317px;
+    height: 268px;
+    border-radius: 30px;
+    margin-top: 48px;
+    margin-left: 14px;
+    float: left;
+    text-align: center;
+    padding-bottom: 0px;
+    background-image: url(../Imagenes/vintage1.jpg);
+    background-size: 100% 375px;
+    background-position: 3px -100px;
+    font-style: normal;
+    font-weight: 400;
+    color: #000000;
+    text-decoration: underline;
+}
+
+
+.contenedor_principal .publicacion .articulo1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    height: 40px;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+}
+.publicacion .articulo2 img {
+    border-radius: 22px;
+    margin-left: 2px;
+    margin-top: 11px;
+    background-image: url(../Imagenes/spaghetti-putanesca-italiannis.jpg);
+}
+.publicacion .articulo3 img {
+    margin-top: 26px;
+    margin-right: 2px;
+    margin-left: 7px;
+    border-radius: 22px;
+    text-align: center;
+    text-decoration: none;
+
+}

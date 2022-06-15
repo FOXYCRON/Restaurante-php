@@ -1,0 +1,86 @@
+body {
+    background-color: #000000;
+    width: 100%;
+    height: 0px;
+    margin-left: -10px;
+    margin-top: -8px;
+}
+.info {
+    background-color: #A07D42;
+    margin-top: -469px;
+    width: 269px;
+    height: 268px;
+    margin-left: 503px;
+    border-radius: 13px;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+    padding-top: 47px;
+    text-align: center;
+}
+
+
+
+
+
+
+
+.cabezera {
+    background-color: #A07D42;
+    width: 1345px;
+    margin-left: -10px;
+    height: 93px;
+    margin-top: -9px;
+    font-family: architects-daughter;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 63px;
+    text-align: center;
+    text-indent: -55px;
+    color: #675D32;
+}
+
+
+.img {
+    height: 538px;
+    background-image: url(../Imagenes/plantilla-mandala.jpg);
+    background-size: 879px 519px;
+    background-position: 368px 0px;
+    margin-left: 48px;
+    background-color: #FFFFFF;
+}
+body img {
+    margin-top: -64px;
+    margin-left: 20px;
+    border-bottom-left-radius: 96px;
+    border-bottom-right-radius: 96px;
+    border-top-right-radius: 96px;
+    height: 40px;
+    width: 45px;
+}
+
+
+.img .tapa {
+    background-color: #000000;
+    width: 345px;
+    height: 201px;
+    padding-top: 229px;
+}
+.img .tapa2 {
+    background-color: #000000;
+    width: 177px;
+    height: 518px;
+    margin-left: 1108px;
+    margin-top: -425px;
+}
+.cabezera {
+    padding-top: 0px;
+
+
+
+}
+
+
+.registro {
+    margin-top: -18px;
+}

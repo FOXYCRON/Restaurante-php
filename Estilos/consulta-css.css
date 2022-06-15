@@ -1,0 +1,119 @@
+@charset "utf-8";
+body div {
+}
+body {
+    background-color: #292929;
+}
+
+
+
+
+.head {
+
+}
+
+.head .header {
+    background-color: #000000;
+    width: auto;
+    height: 100px;
+    margin-top: -10px;
+    margin-left: -9px;
+    width: auto;
+    margin-right: -8px;
+}
+.head .header h1 {
+    color: #FFFFFF;
+    padding-top: 28px;
+    font-size: 38px;
+}
+.cuadro {
+
+}
+.cuadro .cuadro- {
+    background-color: #000000;
+    width: 75px;
+    height: 50px;
+    margin-top: 47px;
+    margin-left: 420px;
+    padding-left: 400px;
+    padding-bottom: 285px;
+}
+
+.cuadro .cuadro2 {
+    background-color: #8B8B8B;
+    width: 459px;
+    height: 315px;
+    margin-top: -325px;
+    margin-left: 429px;
+}
+.cuadro .cuadro3 {
+    background-color: #666666;
+    width: 447px;
+    height: 22px;
+    margin-left: 435px;
+    margin-top: -335px;
+    font-style: normal;
+    font-weight: 400;
+    border-radius: 7px;
+}
+.cuadro .cuadro3 h3 {
+    font-size: 13px;
+    font-family: acme;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 25px;
+    padding-top: 3px;
+    margin-left: -267px;
+
+}
+.cuadro4 form input {
+    margin-top: -29px;
+    margin-left: 0px;
+    padding-top: 0px;
+    width: 420px;
+    height: 33px;
+    border-radius: 39px;
+    background-color: #C9C9C9;
+    font-family: acme;
+    font-style: normal;
+    font-weight: 400;
+}
+
+
+
+.cuadro .cuadro4 {
+    background-color: #C9C9C9;
+    width: 420px;
+    height: 33px;
+    margin-left: 449px;
+    margin-top: 109px;
+    border-radius: 22px;
+}
+
+
+
+body img {
+    margin-left: -280px;
+    width: 223px;
+    height: 79px;
+    margin-top: 75px;
+}
+.cuadro #wrapper .lupa {
+
+}
+
+
+#wrapper form input {
+
+
+
+}
+
+.buscador form input {
+    margin-top: 141px;
+    margin-left: 455px;
+    width: 392px;
+    height: 32px;
+    border-radius: 26px;
+    text-indent: 9px;
+}
